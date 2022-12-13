@@ -2,8 +2,9 @@
 
 # **The Goal**
 
-Perform "Exploratory Data Analysis" on dataset "SampleSuperstore"
-find the weak areas where you can work to make more profit
+-  Perform "Exploratory Data Analysis" on dataset "SampleSuperstore"
+
+-  find the weak areas where you can work to make more profit
 
 # **About Bussiness :-**
 
