@@ -7,7 +7,7 @@ find the weak areas where you can work to make more profit
 
 # **About Bussiness :-**
 
-> <h3><b><span style="color:navy">Dataset :- </span><a href='https://www.linkedin.com/in/mina-markos-343b8b171/'><b>Click HERE</b></a> </b></h3>  
+> <h3><b><span style="color:navy">Dataset :- </span><a href='https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset'><b>Click HERE</b></a> </b></h3>  
 > <h3><b><span style="color:navy">Video :- </span><a href='https://www.linkedin.com/in/mina-markos-343b8b171/'><b>Click HERE</b></a> </b></h3>  
 
 The exponential rise of digital literacy and awareness has made online shopping such an integral and inevitable part of our lifestyle. The biggest perk of this kind of shopping is that it can be done within minutes, at the ease and comfort of your house or wherever you are, by just clicking a tab.Our job is to evaluate sales data and find weak points and chances for Super Store to improve its business.
